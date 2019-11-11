@@ -1,6 +1,6 @@
 # Exam Steps
 
-* Create an Project to manage identity - IdentityServer4.0
+* Create a Project to manage identity - IdentityServer4.0
 * Create a Customer model - (Name:string, address: string, telephone: string, website
 : string)
 * Create migrations
