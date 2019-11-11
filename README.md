@@ -4,7 +4,9 @@
 Note: This task should take no longer than 3-4 hours at the most to complete.
 
 ### Prerequisites
-Please note that this will require some basic .Net Core, IdentityServer, Migrations and API.
+* Please note that this will require some basic .Net Core, IdentityServer, Migrations and API.
+* Use .Net Core 2.2 or above
+* Use latest IdentityServer version
 
 ### Task
 
