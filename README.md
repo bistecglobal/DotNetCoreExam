@@ -1,4 +1,4 @@
-# DotNet Core Programming Task
+# .Net Core Programming Task
 
 ### In order to be considered for a .net position, you must complete the following steps.
 Note: This task should take no longer than 4-6 hours at the most to complete.
